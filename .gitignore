@@ -1,5 +1,6 @@
 .env
-
+public/products/*.jpg
+static/products/*.jpg
 # compiled output
 /dist
 /node_modules
